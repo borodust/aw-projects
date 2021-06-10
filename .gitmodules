@@ -1,0 +1,36 @@
+[submodule "alien-works"]
+	path = alien-works
+	url = https://github.com/borodust/alien-works.git
+[submodule "alien-works-android-runtime"]
+	path = alien-works-android-runtime
+	url = https://github.com/borodust/alien-works-android-runtime.git
+[submodule "alien-works-demo"]
+	path = alien-works-demo
+	url = https://github.com/borodust/alien-works-demo.git
+[submodule "aw-assimp"]
+	path = aw-assimp
+	url = https://github.com/borodust/aw-assimp.git
+[submodule "aw-filament"]
+	path = aw-filament
+	url = https://github.com/borodust/aw-filament.git
+[submodule "aw-glm"]
+	path = aw-glm
+	url = https://github.com/borodust/aw-glm.git
+[submodule "aw-imgui"]
+	path = aw-imgui
+	url = https://github.com/borodust/aw-imgui.git
+[submodule "aw-physx"]
+	path = aw-physx
+	url = https://github.com/borodust/aw-physx.git
+[submodule "aw-sdl"]
+	path = aw-sdl
+	url = https://github.com/borodust/aw-sdl.git
+[submodule "aw-skia"]
+	path = aw-skia
+	url = https://github.com/borodust/aw-skia.git
+[submodule "aw-stb"]
+	path = aw-stb
+	url = https://github.com/borodust/aw-stb.git
+[submodule "alien-works-pc-runtime"]
+	path = alien-works-pc-runtime
+	url = https://github.com/borodust/alien-works-pc-runtime.git
