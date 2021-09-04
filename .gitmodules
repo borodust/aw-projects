@@ -34,3 +34,6 @@
 [submodule "alien-works-pc-runtime"]
 	path = alien-works-pc-runtime
 	url = https://github.com/borodust/alien-works-pc-runtime.git
+[submodule "alien-works-delivery"]
+	path = alien-works-delivery
+	url = https://github.com/borodust/alien-works-delivery.git
