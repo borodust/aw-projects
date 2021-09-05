@@ -32,6 +32,7 @@
 	path = alien-works-delivery
 	url = https://github.com/borodust/alien-works-delivery.git
 [submodule "alien-works-foundation"]
+        path = alien-works-foundation
 	url = https://github.com/borodust/alien-works-foundation.git
 [submodule "claw"]
 	path = claw
