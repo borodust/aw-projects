@@ -1,9 +1,6 @@
 [submodule "alien-works"]
 	path = alien-works
 	url = https://github.com/borodust/alien-works.git
-[submodule "alien-works-android-runtime"]
-	path = alien-works-android-runtime
-	url = https://github.com/borodust/alien-works-android-runtime.git
 [submodule "alien-works-demo"]
 	path = alien-works-demo
 	url = https://github.com/borodust/alien-works-demo.git
