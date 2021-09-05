@@ -36,3 +36,15 @@
 	url = https://github.com/borodust/alien-works-delivery.git
 [submodule "alien-works-foundation"]
 	url = https://github.com/borodust/alien-works-foundation.git
+[submodule "claw"]
+	path = claw
+	url = https://github.com/borodust/claw.git
+[submodule "cffi-c-ref"]
+	path = cffi-c-ref
+	url = https://github.com/borodust/cffi-c-ref.git
+[submodule "claw-utils"]
+	path = claw-utils
+	url = https://github.com/borodust/claw-utils.git
+[submodule "cl-resect"]
+	path = cl-resect
+	url = https://github.com/borodust/cl-resect.git
