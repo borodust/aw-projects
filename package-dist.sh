@@ -19,7 +19,7 @@
     (handler-bind ((asdf:missing-dependency #'load-system)
                    (asdf:missing-component #'load-system))
       (quickdist:quickdist :name "alien-works"
-                           :base-url "http://dist.borodust.org"
+                           :base-url "http://dist.borodu.st"
                            :projects-dir (uiop:pathname-directory-pathname *script-path*)
                            :dists-dir tmp-dist-dir)))
   (uiop:with-current-directory (tmp-dist-dir)
