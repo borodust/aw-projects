@@ -46,3 +46,6 @@
 [submodule "cl-resect"]
 	path = cl-resect
 	url = https://github.com/borodust/cl-resect.git
+[submodule "bodge-blobs-support"]
+	path = bodge-blobs-support
+	url = https://github.com/borodust/bodge-blobs-support.git
