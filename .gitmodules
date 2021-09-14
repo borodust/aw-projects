@@ -49,3 +49,6 @@
 [submodule "bodge-blobs-support"]
 	path = bodge-blobs-support
 	url = https://github.com/borodust/bodge-blobs-support.git
+[submodule "distignore"]
+	path = distignore
+	url = https://github.com/borodust/distignore.git
