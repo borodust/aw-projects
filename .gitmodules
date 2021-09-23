@@ -58,3 +58,6 @@
 [submodule "aw-chipmunk"]
 	path = aw-chipmunk
 	url = https://github.com/borodust/aw-chipmunk.git
+[submodule "aw-opus"]
+	path = aw-opus
+	url = https://github.com/borodust/aw-opus.git
