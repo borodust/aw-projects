@@ -52,3 +52,6 @@
 [submodule "distignore"]
 	path = distignore
 	url = https://github.com/borodust/distignore.git
+[submodule "aw-openal"]
+	path = aw-openal
+	url = https://github.com/borodust/aw-openal.git
