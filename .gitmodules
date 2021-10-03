@@ -13,9 +13,6 @@
 [submodule "aw-glm"]
 	path = aw-glm
 	url = https://github.com/borodust/aw-glm.git
-[submodule "aw-imgui"]
-	path = aw-imgui
-	url = https://github.com/borodust/aw-imgui.git
 [submodule "aw-physx"]
 	path = aw-physx
 	url = https://github.com/borodust/aw-physx.git
