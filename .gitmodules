@@ -58,3 +58,6 @@
 [submodule "aw-opus"]
 	path = aw-opus
 	url = https://github.com/borodust/aw-opus.git
+[submodule "cl-muth"]
+	path = cl-muth
+	url = https://github.com/borodust/cl-muth.git
